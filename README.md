@@ -1,5 +1,5 @@
 # Desafio da dio - Sistema bancário em Python
-![Status](https://img.shields.io/badge/Status-em%20desenvolvimento-purple)					  ![Language](https://img.shields.io/badge/Language-Python%203-purple)	![Version](https://img.shields.io/badge/version-1.0-purple)
+![Status](https://img.shields.io/badge/Status-em%20desenvolvimento-purple)					  ![Language](https://img.shields.io/badge/Language-Python%203-purple)	![Version](https://img.shields.io/badge/version-1.0-purple)  [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
 Este é um projeto que consiste em um sistema bancário simples com as operações de depósito, saque e extrato.
 ## Descrição
